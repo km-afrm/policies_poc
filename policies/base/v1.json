@@ -1,0 +1,13 @@
+{
+  "Order": {
+    "AllowedCheckoutPaymentMethods": [
+      "CreditCard",
+      "Loan",
+      "Rewards"
+    ]
+  },
+
+  "Loans": {
+    "DownPaymentCapturePolicy" : "OnLoanAuth"
+  }
+}
