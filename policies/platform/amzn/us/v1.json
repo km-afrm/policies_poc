@@ -1,0 +1,10 @@
+{
+  "Order": {
+    "AllowedCheckoutPaymentMethods": [
+      "Loan",
+      "Rewards",
+      "CreditCard",
+      "DebitCard"
+    ]
+  }
+}
